@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+.DS_Store
+*.lock
+!yarn.lock
+
+node_modules
+stub/node_modules
+stub/build
+
+package-lock.json
